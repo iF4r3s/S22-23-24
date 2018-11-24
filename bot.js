@@ -21,7 +21,7 @@ bot22.on('message', message => {
 
 
 bot22.on('ready', () => {
-  let ch = bot22.guilds.get("507972785650401301").channels.find(c => c.id == "515839504888889354");
+  let ch = bot22.guilds.get("507972785650401301").channels.find(c => c.id == "515839527416234014");
   setInterval(function() {
     ch.send("22th Lover")
   }, 900);
@@ -57,7 +57,7 @@ bot23.on('message', message => {
 
 
 bot23.on('ready', () => {
-  let ch = bot23.guilds.get("507972785650401301").channels.find(c => c.id == "515839504888889354");
+  let ch = bot23.guilds.get("507972785650401301").channels.find(c => c.id == "515839527416234014");
   setInterval(function() {
     ch.send("23th Lover")
   }, 900);
@@ -93,7 +93,7 @@ bot24.on('message', message => {
 
 
 bot24.on('ready', () => {
-  let ch = bot24.guilds.get("507972785650401301").channels.find(c => c.id == "515839504888889354");
+  let ch = bot24.guilds.get("507972785650401301").channels.find(c => c.id == "515839527416234014");
   setInterval(function() {
     ch.send("24th Lover")
   }, 900);
